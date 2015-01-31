@@ -1,0 +1,41 @@
+.footer {
+  background: #2e599f;
+  color: #ffffff;
+  padding: 2em 0;
+}
+.social-icon {
+  margin-bottom: 1em;
+}
+.social-icon i {
+  padding: 11px;
+  &:hover {
+    color: #51cb20;
+  }
+}
+.logo-panel {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 80px;
+  max-width: 200px;
+  border: 1em solid $panel-bg;
+}
+.uthsc-panel {
+  background-image: url("../images/uthsc-logo-stacked.svg");
+}
+.methodist-panel {
+  background-image: url("../images/methodist-logo.png");
+}
+@media only screen and (max-width: 40em) {
+  .logo-panel-group {
+    margin-top: 1em;
+  }
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {  /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+  .logo-panel {
+    width: 46%;
+    padding: 3em;
+    margin: 0 2% 0 2% !important;
+    max-width: 100%;
+  }
+}

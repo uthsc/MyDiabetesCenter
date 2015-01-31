@@ -1,0 +1,44 @@
+header {
+  &.hero {
+    background-image: url("../images/apple-grass.jpg");
+    background-size: cover;
+    min-height: 230px;
+    background-position: 11% 45%;
+    height: 20vw;
+    max-height: 300px;
+  }
+
+  .logo-background {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: relative;
+    top: 25px;
+    padding: 10px;
+  }
+  h1 {
+    margin: 0;
+    padding: 0 0.4em;
+    line-height: 1em;
+    color: #2e599f;
+  }
+  h2 {
+    padding: 0 1em;
+    margin: 0;
+    line-height: 1em;
+    color: #4DAA57;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  header {
+    &.hero {
+      min-height: 90px;
+    }
+    .logo-background {
+      top: 5vw;
+      padding: 6px;
+    }
+    h1 {
+      font-size: 1.5em;
+    }
+  }
+}

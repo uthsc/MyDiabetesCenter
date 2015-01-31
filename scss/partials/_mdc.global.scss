@@ -1,0 +1,30 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.footer {
+  background: #2e599f;
+  color: #ffffff;
+  padding: 2em 0;
+}
+.social-icon i {
+  padding: 11px;
+  &:hover {
+    color: #51cb20;
+  }
+}
+.uthsc-panel {
+  background-image: url("../images/uthsc-logo-stacked.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 80px;
+  max-width: 200px;
+}
+.methodist-panel {
+  background-image: url("../images/methodist-logo.jpg");
+  background-size: contain;
+  background-position: center ;
+  background-repeat: no-repeat;
+  min-height: 80px;
+  max-width: 200px;
+}

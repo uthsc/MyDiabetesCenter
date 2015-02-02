@@ -122,6 +122,33 @@
     </div>
 
 </div>
+<div class="columns">
+    <div class="row">
+        <div class="columns medium-7 panel">
+            <h2>Call</h2>
+            <p>Care Coordination Services: 901.297.0929</p>
+            <p>Schedule a Care Coordination Appointment: 901.516.9000</p>
+            <p>Find Diabetes Peer Support Groups Near You:<br />
+                Congregational Health Network Navigator</p>
+            <ul>
+                <li>Methodist South - Blanch Thomas: 901.516.3597</li>
+                <li>Methodist University - Jean Evans: 901.516.8443</li>
+                <li>Methodist North - Sheilah Easterling: 901.516.5617</li>
+            </ul>
+        </div>
+        <div class="columns medium-4 panel right">
+            <h2>Visit</h2>
+            <p>Methodist South Medical Office Complex<br />
+                1251 Wesley Drive, Ste. 151<br />
+                Memphis, TN 38118</p>
+        </div>
+        <div class="columns medium-4 panel right">
+            <h2>Hours</h2>
+            <p>Monday, Tuesday, &amp; Thursday: 1pm - 5pm<br />
+                Friday: 8am - 5pm</p>
+        </div>
+    </div>
+</div>
 
 <!-- Footer -->
 <div class="footer contain-to-grid">

@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -119,6 +119,24 @@
                     <a href="#" class="small button">Link</a>
                 </div>
             </div>
+        <div id="mapModal" class="reveal-modal" data-reveal="data-reveal">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.9736137919863!2d-90.020438!3d35.03238999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x7551e3d9ffcbd63a!2sMethodist+South+Hospital!5e0!3m2!1sen!2sus!4v1422892277160" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+
+            <?php
+            if (strpos($_SERVER['HTTP_USER_AGENT'], 'Windows') !== false) {
+                ?>
+                <a href="bingmaps:?cp=35.03239~-90.020438" class="button show-for-large-up">Open in Desktop App</a>
+            <?php
+            }
+            if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mac') !== false) {
+                ?>
+                <a href="http://maps.apple.com/?q=35.03239,-90.020438" class="button show-for-large-up">Open in App</a>
+            <?php
+            }
+            ?>
+            <a href="http://maps.apple.com/?q=35.03239,-90.020438" class="button hide-for-large-up">Open in App</a>
+
+            <a class="close-reveal-modal">&#215;</a>
         </div>
     </div>
 

@@ -1,0 +1,10 @@
+
+nav {
+  .home-icon {
+    position: relative;
+    top: 6px;
+  &:hover {
+    color: $primary-color;
+  }
+  }
+}

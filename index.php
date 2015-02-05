@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/mdc.css"/>
     <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css'>
     <script src="bower_components/modernizr/modernizr.js"></script>
 </head>
 <body>

@@ -138,7 +138,7 @@ $include-html-global-classes: $include-html-classes;
 // $primary-color: #008CBA;
    $primary-color: #4daa57;
 // $secondary-color: #e7e7e7;
-   $secondary-color: #4daa57;
+   $secondary-color: #2e599f;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
@@ -277,6 +277,7 @@ $include-html-global-classes: $include-html-classes;
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
 // $anchor-font-color: $primary-color;
+   $anchor-font-color: $secondary-color;
 // $anchor-font-color-hover: scale-color($primary-color, $lightness: -14%);
 
 // We use these to style the <hr> element

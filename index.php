@@ -145,7 +145,7 @@
             <div class="row" data-equalizer="data-equalizer">
 
 
-                <div class="columns large-2 panel radius uthsc-panel logo-panel show-for-large-up" data-equalizer-watch="data-equalizer-watch">
+                <div class="columns large-2 panel radius methodist-panel logo-panel show-for-large-up" data-equalizer-watch="data-equalizer-watch">
                 </div>
                 <div class="columns large-8 small-centered medium-uncentered large-uncentered" data-equalizer-watch="data-equalizer-watch">
                     <div class="social-icon">
@@ -161,16 +161,16 @@
                         </p>
                     </div>
                 </div>
-                <div class="columns large-2 panel radius methodist-panel logo-panel show-for-large-up" data-equalizer-watch="data-equalizer-watch">
+                <div class="columns large-2 panel radius uthsc-panel logo-panel show-for-large-up" data-equalizer-watch="data-equalizer-watch">
                 </div>
             </div>
 
         </div>
         <div class="columns logo-panel-group">
             <div class="row hide-for-large-up collapse" data-equalizer="data-equalizer">
-                <div class="columns small-12 small-centered medium-uncentered medium-6 panel radius uthsc-panel logo-panel" data-equalizer-watch="data-equalizer-watch">
-                </div>
                 <div class="columns small-12 small-centered medium-uncentered medium-6 panel radius methodist-panel logo-panel" data-equalizer-watch="data-equalizer-watch">
+                </div>
+                <div class="columns small-12 small-centered medium-uncentered medium-6 panel radius uthsc-panel logo-panel" data-equalizer-watch="data-equalizer-watch">
                 </div>
             </div>
         </div>

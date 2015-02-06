@@ -157,7 +157,7 @@
                         <a href="http://pinterest.com/#/"><i class="fa fa-youtube fa-2x fa-inverse"></i></a>
                         <a href="http://youtube.com/user/#"><i class="fa fa-pinterest fa-2x fa-inverse"></i></a>
 
-                        <p>&copy; <?php echo date("Y") ?> My Diabetes Center<br/> Methodist Le Bonheur Healthcare<br/> The University of Tennessee Health Science Center
+                        <p>&copy; <?php echo date("Y") ?> Diabetes Prevention &amp; Wellness Center<br/> Methodist Le Bonheur Healthcare<br/> The University of Tennessee Health Science Center
                         </p>
                     </div>
                 </div>

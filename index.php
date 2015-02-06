@@ -14,7 +14,7 @@
 <!-- Header --><!--Hero Image-->
 <header class="hero large-text-left small-text-center">
     <div class="logo-background">
-        <h1><strong>Diabetes Wellness &amp;&nbsp;Prevention Center</strong></h1>
+        <h1><strong>Diabetes Prevention &amp;&nbsp;Wellness Center</strong></h1>
 
         <h2 class="hidden-for-small">Overcoming&nbsp;Diabetes One&nbsp;Step&nbsp;at&nbsp;a&nbsp;Time</h2>
     </div>

@@ -23,7 +23,7 @@
     <nav class="top-bar" data-topbar="data-topbar" role="navigation">
         <ul class="title-area">
             <li class="name">
-                <h1><a href="#"><i class="fa fa-home fa-2x home-icon"></i></a></h1>
+                <h1><a href="/"><i class="fa fa-home fa-2x home-icon"></i></a></h1>
             </li>
             <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -46,6 +46,7 @@
                     <a href="#">About</a>
                     <ul class="dropdown">
                         <li><a href="#">Misson, Vision, &amp; Goals</a></li>
+                        <li><a href="ribbon.php">Ribbon Demo</a></li>
                     </ul>
                 </li>
 

@@ -1,9 +1,27 @@
 <!doctype html>
 <html class="no-js" lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>My Diabetes Center</title>
+    <meta name="apple-mobile-web-app-title" content="My Diabetes Center"/>
+    <meta property="og:image" content="images/methodist-building.jpg"/>
+    <meta property="og:title" content="My Diabetes Center"/>
+    <meta property="og:site_name" content="My Diabetes Center"/>
+    <meta property="og:url" content="http://mydiabetescenter.com"/>
+    <meta property="og:description" content="A service of the Diabetes Wellness & Prevention Center"/>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-60741735-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <title><?php echo $pagename; ?> | My Diabetes Center</title>
+    <link rel="apple-touch-icon" href="images/methodist-building.jpg">
     <link rel="stylesheet" href="css/mdc.css"/>
     <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>

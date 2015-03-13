@@ -76,6 +76,9 @@
 
 
     </div>
+    <div class="columns text-center">
+        <p class="sub-tagline">A service of the Diabetes Wellness &amp;&nbsp;Prevention Center</p>
+    </div>
 </div>
 
 <div class="row full connect-boxes">

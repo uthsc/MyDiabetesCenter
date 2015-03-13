@@ -1,63 +1,7 @@
-<!doctype html>
-<html class="no-js" lang="en" xmlns="http://www.w3.org/1999/html">
-<head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>My Diabetes Center</title>
-    <link rel="stylesheet" href="css/mdc.css"/>
-    <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css'>
-    <script src="bower_components/modernizr/modernizr.js"></script>
-</head>
-<body>
-<!-- Header --><!--Hero Image-->
-<header class="hero large-text-left small-text-center">
-    <div class="logo-background">
-        <h1><strong>Diabetes Prevention &amp;&nbsp;Wellness Center</strong></h1>
-
-        <h2 class="hidden-for-small">Overcoming&nbsp;Diabetes One&nbsp;Step&nbsp;at&nbsp;a&nbsp;Time</h2>
-    </div>
-</header>
-<div class="contain-to-grid sticky">
-    <nav class="top-bar" data-topbar="data-topbar" role="navigation">
-        <ul class="title-area">
-            <li class="name">
-                <h1><a href="#"><i class="fa fa-home fa-2x home-icon"></i></a></h1>
-            </li>
-            <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-        </ul>
-        <section class="top-bar-section">
-            <!-- Right Nav Section -->
-            <ul class="right">
-                <li class="has-dropdown">
-                    <a href="#">Resources</a>
-                    <ul class="dropdown">
-                        <li><a href="#">Patientslikeme</a></li>
-                        <li><a href="#"> My Diabetes Apps</a></li>
-                    </ul>
-                </li>
-            </ul>
-
-            <!-- Left Nav Section -->
-            <ul class="left">
-                <li class="has-dropdown">
-                    <a href="#">About</a>
-                    <ul class="dropdown">
-                        <li><a href="#">Misson, Vision, &amp; Goals</a></li>
-                    </ul>
-                </li>
-
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Get Started</a></li>
-                <li><a href="#">Stories</a></li>
-                <li><a href="#">Ambassadors</a></li>
-            </ul>
-        </section>
-    </nav>
-</div>
-<!-- End Header -->
+<?php
+$pagename = 'Home';
+include("template-top.php");
+?>
 <div class="row">
     <div class="columns panel">
         <figure class="right image-40">
@@ -75,6 +19,9 @@
         <p>Vivamus mollis dapibus sapien at sagittis. Mauris ac odio a purus scelerisque aliquam. Pellentesque placerat eu libero ac elementum. Sed consequat, orci et ullamcorper ullamcorper, est sem pulvinar enim, sit amet volutpat eros est non purus. Nullam iaculis venenatis sem vitae tempor. Aenean sit amet massa sit amet massa pretium dictum at nec ligula. Aenean interdum neque leo, congue fermentum metus laoreet ut. Phasellus dignissim nunc at ligula molestie mattis. Donec sit amet dolor diam. Proin ultricies metus in velit vestibulum suscipit. Aliquam id tristique nunc. Proin sed dapibus nibh, eu porttitor nisl. Nulla ac justo et lacus accumsan tempor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
 
 
+    </div>
+    <div class="columns text-center">
+        <p class="sub-tagline">A service of the Diabetes Wellness &amp;&nbsp;Prevention Center</p>
     </div>
 </div>
 

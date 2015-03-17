@@ -96,8 +96,13 @@ figure {
 .ribbon .ribbon-content:after {
   right: 0;
   border-width: 1em 1em 0 0;
+}
+.sub-tagline-box {
+    background: $mdc-blue;
+    padding: 0;
+}
 .sub-tagline {
-  color: $aluminum;
-  font-size: 1.5em;
-  letter-spacing: 0.2em;
+  color: $smoke;
+  letter-spacing: 0.6em;
+  margin: 0;
 }

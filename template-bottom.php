@@ -1,9 +1,10 @@
+<div class="sub-tagline-box contain-to-grid">
 <div class="row">
     <div class="columns text-center">
         <p class="sub-tagline">A service of the Diabetes Wellness &amp;&nbsp;Prevention Center</p>
     </div>
 </div>
-
+</div>
 <div class="row full connect-boxes">
     <div class="columns medium-7 small-text-center medium-text-right connect-box">
         <h2>Call <i class="fa fa-phone"></i></h2>

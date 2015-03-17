@@ -41,7 +41,7 @@
     <div class="logo-background">
         <h1><strong>My Diabetes Center</strong></h1>
 
-        <h2 class="hidden-for-small">Overcoming&nbsp;Diabetes One&nbsp;Step&nbsp;at&nbsp;a&nbsp;Time</h2>
+        <h2>Overcoming&nbsp;Diabetes One&nbsp;Step&nbsp;at&nbsp;a&nbsp;Time</h2>
     </div>
 </header>
 <div class="contain-to-grid sticky">

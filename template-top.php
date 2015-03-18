@@ -59,8 +59,8 @@
                 <li class="has-dropdown">
                     <a href="#">Resources</a>
                     <ul class="dropdown">
-                        <li><a href="#">Patientslikeme</a></li>
-                        <li><a href="#"> My Diabetes Apps</a></li>
+                        <li><a href="http://www.patientslikeme.com/">Patientslikeme</a></li>
+                        <li><a href="apps.php">My Diabetes Apps</a></li>
                     </ul>
                 </li>
             </ul>
@@ -70,14 +70,15 @@
                 <li class="has-dropdown">
                     <a href="#">About</a>
                     <ul class="dropdown">
-                        <li><a href="#">Misson, Vision, &amp; Goals</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="mission.php">Misson, Vision, &amp; Goals</a></li>
                     </ul>
                 </li>
 
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Get Started</a></li>
-                <li><a href="#">Stories</a></li>
-                <li><a href="#">Ambassadors</a></li>
+                <li><a href="services.php">Services</a></li>
+                <li><a href="start.php">Get Started</a></li>
+                <li><a href="stories.php">Stories</a></li>
+                <li><a href="ambassadors.php">Ambassadors</a></li>
             </ul>
         </section>
     </nav>

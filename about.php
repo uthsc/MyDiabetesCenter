@@ -1,5 +1,5 @@
 <?php
-$pagename = 'Home';
+$pagename = 'About Us';
 include("template-top.php");
 ?>
     <div class="row">

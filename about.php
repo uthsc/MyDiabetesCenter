@@ -8,7 +8,7 @@ include("template-top.php");
             <div class="columns medium-4 large-3">
                 <figure class="staff">
                     <img src="images/sihoutte-man.jpg" alt="xxx" />
-                    <figcaption><h3>John Q. Public, PhD</h3><br />
+                    <figcaption><strong>John Q. Public, PhD</strong><br />
                         Interim Dean College of University, Department Division &amp; Institution
                         <a href="#" data-reveal-id="staff1"><address class="button tiny expand text-left"><i class="fa fa-map-marker fa-2x dropcap"></i>900 Street, #1045<br />
                                     Memphis, TN 38104</address>

@@ -2,7 +2,7 @@
 $pagename = 'Mission, Vision, &amp; Goals';
 include("template-top.php");
 ?>
-<div class="row">
+<div id="content" class="row">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
         <div class="row panel">

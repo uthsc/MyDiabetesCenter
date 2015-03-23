@@ -119,3 +119,11 @@ figure.staff {
 .fa.fa-map-marker.fa-2x.dropcap {
   float: left;
   padding: 0.15em 0.3em 0;
+}
+h2:before {
+  display: block;
+  content: " ";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+}

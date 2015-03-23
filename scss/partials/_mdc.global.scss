@@ -1,6 +1,9 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+#content .row {
+  margin-bottom: 2em !important;
+}
 .row.full {
   width: 100%;
   max-width: 100%;

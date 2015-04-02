@@ -146,6 +146,7 @@ $include-html-global-classes: $include-html-classes;
 
 // MDC colors
 $mdc-blue       : #2e599f;
+$mdc-blue-dark : darken($mdc-blue, 20%);
 $mdc-green      : $primary-color;
 $mdc-green-dark : darken($primary-color, 20%);
 

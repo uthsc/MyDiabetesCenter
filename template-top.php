@@ -28,6 +28,7 @@
 
     </script>
     <title><?php echo $pagename; ?> | My Diabetes Center</title>
+    <link rel="shortcut icon" href="favicon.ico?v=5" />
     <link rel="apple-touch-icon" href="images/methodist-building.jpg">
     <link rel="stylesheet" href="css/mdc.css"/>
     <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
@@ -37,7 +38,7 @@
 </head>
 <body>
 <!-- Header --><!--Hero Image-->
-<header class="hero large-text-left small-text-center">
+<header class="hero medium-text-left small-text-center">
     <a href="/" title="Home">
         <div class="logo-background">
             <h1><strong>My Diabetes Center</strong></h1>
@@ -58,7 +59,7 @@
             <!-- Right Nav Section -->
             <ul class="right">
                 <li class="has-dropdown">
-                    <a href="#">Resources</a>
+                    <a href="resources.php">Resources</a>
                     <ul class="dropdown">
                         <li><a href="http://www.patientslikeme.com/">Patientslikeme</a></li>
                         <li><a href="apps.php">My Diabetes Apps</a></li>

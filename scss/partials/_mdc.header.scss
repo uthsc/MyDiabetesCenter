@@ -1,11 +1,11 @@
 header {
   &.hero {
-    background-image: url("http://www.palmettoofclemson.com/wp-content/uploads/2013/10/personal.jpg");
+    background-image: url("../images/steps.jpg");
+    background-position: 0 61%;
     background-size: cover;
+    height: 21vw;
+    max-height: 400px;
     min-height: 230px;
-    background-position: 46% 49%;
-    height: 20vw;
-    max-height: 300px;
   }
 
   .logo-background {

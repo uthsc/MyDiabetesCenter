@@ -5,6 +5,7 @@ include("template-top.php");
 <div id="content" class="row">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
+        <button class="label expand small-push-1">&emsp;&emsp;<i class="fa fa-3x fa-arrow-down left show-for-small"></i><i class="fa fa-2x fa-arrow-down left show-for-medium"></i><i class="fa fa-arrow-down left show-for-large-up"></i>Waiting on text.</button>
 
         <div class="row panel">
             <div class="column small-12">

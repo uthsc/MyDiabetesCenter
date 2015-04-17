@@ -46,7 +46,7 @@ include("template-top.php");
                 </figure>
             </div>
             <div class="column small-12 medium-9">
-                <button class="label expand small-push-1">&emsp;&emsp;<i class="fa fa-3x fa-arrow-down left show-for-small"></i><i class="fa fa-2x fa-arrow-down left show-for-medium"></i><i class="fa fa-arrow-down left show-for-large-up"></i> Example using SoundCloud. <br class="show-for-medium-down" />This is Nic's personal account<br class="show-for-small" />but we would create one for MDC.</button>
+                <button class="label expand small-push-1">&emsp;&emsp;<i class="fa fa-3x fa-arrow-down left show-for-small"></i><i class="fa fa-2x fa-arrow-down left show-for-medium"></i><i class="fa fa-arrow-down left show-for-large-up"></i> Example using SoundCloud. <br class="show-for-medium-down" />This is Nic's personal account<br class="show-for-small" /> but we would create one for MDC.</button>
                 <iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201114277%3Fsecret_token%3Ds-35XcB&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
                 <p>I was diagnosed with diabetes approximately 3 years ago, and to say the least it was devastating to get that information. But I decided to not let diabetes rule my life, but for me to take control of the situation.</p>
 

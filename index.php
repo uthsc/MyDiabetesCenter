@@ -11,7 +11,7 @@ include("template-top.php");
 
             <p>We offer resources to learn about diabetes, healthy eating habits, and ways to be more active. You can also explore diabetes apps that are useful for self-management, and read about the journeys of diabetes patients just like you!</p>
 
-            <p>We hope that this will serve as a powerful resource for you to overcome diabetes….one step at a time.</p>
+            <p>We hope that this will serve as a powerful resource for you to overcome diabetes...one step at a time.</p>
 
         </div>
         <div class="columns medium-4">

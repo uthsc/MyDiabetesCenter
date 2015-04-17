@@ -5,8 +5,12 @@ include("template-top.php");
 <div id="content" class="row">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
+        <p>If you have diabetes, Methodist South's Diabetes Prevention & Wellness Center can help you understand diabetes and show you how easy it can be to manage it.</p>
 
-        <p>If you have diabetes, Methodist South's Diabetes Prevention &amp; Wellness Center can help you understand it and show you how easy it can be to manage it. Our Center has a highly skilled care team that specializes in caring for people with diabetes and other chronic illnesses, like High Blood Pressure, Heart Disease, Heart Failure (CHF) and Asthma.</p>
+        <p>Our Center has a highly skilled care team that specializes in caring for people with diabetes and other chronic illnesses, like High Blood Pressure, Heart Disease, Heart Failure (CHF) and Asthma.</p>
+
+        <p>Get started by having your doctor or health care provider refer you to our center. If you don’t have a referral, you can call 901-297-0929.</p>
+
         <p style="float: right;">Go to: <a href="#staff">Staff</a> | <a href="#advisory-council">Advisory Council</a></p>
         <h2 id="staff">Staff</h2>
         <div class="panel">

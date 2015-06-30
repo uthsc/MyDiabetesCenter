@@ -1,5 +1,5 @@
 <?php
-$pagename = 'Mission, Vision, &amp; Goals';
+$pagename = 'Mission, Vision &amp; Goals';
 include("template-top.php");
 ?>
 <div id="content" class="row">

@@ -8,7 +8,7 @@ include("template-top.php");
 
         <div class="row panel">
             <div class="column small-12">
-                <p>Our highly skilled care team helps you understand and manage diabetes. We provide:
+                <p>Our highly skilled care team and provider partners can help you understand and manage your diabetes. We provide:
                 </p>
                 <ul>
                     <li>Regular Comprehensive Exams</li>

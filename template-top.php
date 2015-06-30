@@ -79,7 +79,6 @@
                 <li><a href="services.php">Services</a></li>
                 <li><a href="start.php">Get Started</a></li>
                 <li><a href="stories.php">Stories</a></li>
-                <li><a href="ambassadors.php">Ambassadors</a></li>
             </ul>
         </section>
     </nav>

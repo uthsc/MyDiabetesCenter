@@ -85,10 +85,10 @@ include("template-top.php");
                 </ul>
                 <h3>Gym Memberships and Classes</h3>
                 <ul>
-                    <li><a title="http://www.ymcamemphis.org/">YMCA</a></li>
-                    <li><a title="http://www.krocmemphis.org/programs/fitness/">Group Fitness</a></li>
+                    <li><a href="http://www.ymcamemphis.org/">YMCA</a></li>
+                    <li><a href="http://www.krocmemphis.org/programs/fitness/">Group Fitness</a></li>
                     <li>
-                        <a title="http://www.diabetes.org/in-my-community/local-offices/memphis-tennessee/">Local Events</a>
+                        <a href="http://www.diabetes.org/in-my-community/local-offices/memphis-tennessee/">Local Events</a>
                     </li>
                 </ul>
             </div>
@@ -111,8 +111,8 @@ include("template-top.php");
                 </ul>
                 <h3>Nutrition Classes, Farmer’s Market, Healthy Recipes</h3>
                 <ul>
-                    <li><a title="http://www.churchhealthcenter.org/wellness">Church Health Center</a></li>
-                    <li><a title="http://growmemphis.org.s96322.gridserver.com/">Community Gardens</a></li>
+                    <li><a href="http://www.churchhealthcenter.org/wellness">Church Health Center</a></li>
+                    <li><a href="http://growmemphis.org/">Community Gardens</a></li>
                 </ul>
             </div>
             <div class="columns right text-right">
@@ -123,7 +123,7 @@ include("template-top.php");
             <div class="columns">
                 <h2 id="caring-for-diabetes">Caring for Diabetes</h2>
                 <ul>
-                    <li><a title="http://www.heart.org/HEARTORG/Conditions/Diabetes/DiabetesToolsResources/My-Diabetes-Health-Assessment_UCM_313901_Article.jsp">My Diabetes Health Assessment</a></li>
+                    <li><a href="http://www.heart.org/HEARTORG/Conditions/Diabetes/DiabetesToolsResources/My-Diabetes-Health-Assessment_UCM_313901_Article.jsp">My Diabetes Health Assessment</a></li>
                 </ul>
             </div>
             <div class="columns right text-right">

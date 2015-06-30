@@ -59,10 +59,15 @@
             <!-- Right Nav Section -->
             <ul class="right">
                 <li class="has-dropdown">
-                    <a href="resources.php">Resources</a>
+                    <a href="#">Resources</a>
                     <ul class="dropdown">
-                        <li><a href="http://www.patientslikeme.com/">Patientslikeme</a></li>
+                        <li><a href="tools.php">Self Care Tools</a>
+                        <li><a href="tools.php#diabetes-education">&#x21b3; Diabetes Education</a></li>
+                        <li><a href="tools.php#physical-activity">&#x21b3; Physical Activity</a></li>
+                        <li><a href="tools.php#healthy-eating">&#x21b3; Healthy Eating</a></li>
+                        <li><a href="tools.php#caring-for-diabetes">&#x21b3; Caring for Diabetes</a></li>
                         <li><a href="apps.php">My Diabetes Apps</a></li>
+                        <li><a href="http://www.patientslikeme.com/">PatientsLikeMe</a></li>
                     </ul>
                 </li>
             </ul>

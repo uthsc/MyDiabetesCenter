@@ -8,10 +8,10 @@ include("template-top.php");
 
         <div class="row panel">
             <div class="column">
-                <p>Your doctor or health care provider can refer you to our Center. If you don’t have a referral, you can call 901.297.0929
+                <p>Your doctor or health care provider can refer you to our Center. If you don’t have a referral, you can call 901-758-7888
                 </p>
 
-                <p>To schedule an appointment, call 901-516-9000</p>
+                <p>To schedule an appointment for diabetes education, call 901-516-9000</p>
             </div>
         </div>
         <div class="row panel">

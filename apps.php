@@ -31,7 +31,7 @@ include("template-top.php");
 <div id="content" class="row collapse">
     <div class="columns">
         <h1><?php echo $pagename; ?></h1>
-
+        <p>Some of our patients’ favorite smart phone applications to help you manage your diabetes are available for download below.  Try them out!</p>
         <div class="panel">
             <!--<iframe src="https://widgets.itunes.apple.com/widget.html?c=us&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=Mouvelean's Favorite Apps &t=  The Best Diabetes Apps&m=software&e=software,iPadSoftware&w=250&h=370&ids=398436747,471942748,418076239,533299240&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow:visible;width:250px;height: 500px;border:0px"></iframe>
 

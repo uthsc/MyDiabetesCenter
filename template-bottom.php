@@ -12,7 +12,7 @@
         <p>Care Coordination Services: <span class="pnone-number">(901) 758-7888</span><br />
 
         Schedule a Diabetes Education Appointment: <span class="pnone-number">(901) 516-9000</span><br />
-        Request more information: <a href="mailto:info@mydiabetescenter.com?subject=More info please">info@mydiabetescenter.com</a></p>
+        Request more information: <a href="mailto:info@mydiabetescenter.org?subject=More info please">info@mydiabetescenter.com</a></p>
 
         <p><strong>3 Diabetes Peer Support Groups:</strong></p>
         <ul style="list-style: none;">

@@ -31,7 +31,7 @@ include("template-top.php");
         </div>
 
         <div id="pastor-william-burks" class="row panel">
-            <h2>Pastor William Burks</h2>
+            <h2>Pastor William Burks' Story</h2>
             <div class="columns small-12 medium-3">
                 <figure class="bio">
                     <img src="images/sihoutte-man.jpg" alt="Picture of Pastor William Burks"/>
@@ -51,7 +51,7 @@ include("template-top.php");
         </div>
 
         <div id="douglass-hall" class="row panel">
-            <h2>Douglass Hall</h2>
+            <h2>Douglass Hall's Story</h2>
             <div class="columns small-12 medium-3 show-for-small">
                 <figure class="bio">
                     <img src="images/douglass-hall.jpg" alt="Picture of Douglass Hall"/>

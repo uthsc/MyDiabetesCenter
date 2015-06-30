@@ -79,6 +79,7 @@
                     <ul class="dropdown">
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="mission.php">Misson, Vision &amp; Goals</a></li>
+                        <li><a href="participate.php">Participate</a></li>
                     </ul>
                 </li>
                 <li><a href="services.php">Services</a></li>

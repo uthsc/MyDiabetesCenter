@@ -10,6 +10,7 @@ include("template-top.php");
             <img src="images/dwpc-coalition-key-partners.jpg" width="100%" alt="image of the dwpc coalition key partners" />
         </figure>
         <br />
+        <p>Since then, patients, caregivers, community members, and providers have worked together in Whitehaven, Tennessee to galvanize efforts to address and reverse the diabetes epidemic. Since 2009 the Coalition has sought to develop both outpatient physical space devoted to a comprehensive Diabetes Wellness and Prevention Center on the Methodist South Hospital campus and the patient, provider, and research collaboration necessary to transform diabetes care in Whitehaven from a focus on reactive, rescue care to a focus that is truly patient-centered and mobilizes and engages the entire community.</p>
     </div>
 </div>
 <?php include("template-bottom.php"); ?>

@@ -77,12 +77,7 @@
                     <div class="social-icon">
                         <a href="http://facebook.com/#"><i class="fa fa-facebook fa-2x fa-inverse"></i></a>
                         <a href="http://twitter.com/#"><i class="fa fa-twitter fa-2x fa-inverse"></i></a>
-                        <a href="http://instagram.com/#"><i class="fa fa-instagram fa-2x fa-inverse"></i></a>
-                        <a href="http://linkedin.com/company/#"><i
-                                class="fa fa-linkedin fa-2x fa-inverse"></i></a>&nbsp;
-                        <a href="http://pinterest.com/#/"><i class="fa fa-youtube fa-2x fa-inverse"></i></a>
-                        <a href="http://youtube.com/user/#"><i class="fa fa-pinterest fa-2x fa-inverse"></i></a>
-
+                        <a href="http://youtube.com/user/#"><i class="fa fa-youtube fa-2x fa-inverse"></i></a>
                         <p>&copy; <?php echo date("Y") ?> Diabetes Wellness &amp; Prevention Center<br/> Methodist Le Bonheur Healthcare<br/> The University of Tennessee Health Science Center
                         </p>
                     </div>

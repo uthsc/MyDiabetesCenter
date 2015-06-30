@@ -9,9 +9,10 @@
     <div class="columns medium-7 small-text-center medium-text-right connect-box">
         <h2>Call <i class="fa fa-phone"></i></h2>
 
-        <p>Care Coordination Services: <span class="pnone-number">(901) 758-7888</span></p>
+        <p>Care Coordination Services: <span class="pnone-number">(901) 758-7888</span><br />
 
-        <p>Schedule a Diabetes Education Appointment: <span class="pnone-number">(901) 516-9000</span></p>
+        Schedule a Diabetes Education Appointment: <span class="pnone-number">(901) 516-9000</span><br />
+        Request more information: <a href="mailto:info@mydiabetescenter.com?subject=More info please">info@mydiabetescenter.com</a></p>
 
         <p><strong>3 Diabetes Peer Support Groups:</strong></p>
         <ul style="list-style: none;">

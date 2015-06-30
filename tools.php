@@ -1,5 +1,5 @@
 <?php
-$pagename = 'Resources';
+$pagename = 'Self Care Tools';
 include("template-top.php");
 ?>
 <div id="content" class="row">

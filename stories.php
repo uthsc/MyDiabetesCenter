@@ -34,7 +34,6 @@ include("template-top.php");
             <h2>Pastor William Burks' Story</h2>
             <div class="columns small-12 medium-3">
                 <figure class="bio">
-                    <img src="images/sihoutte-man.jpg" alt="Picture of Pastor William Burks"/>
                     <figcaption>
                         <strong>Pastor William Burks</strong><br/> Patient Advisory Council Member
                     </figcaption>

@@ -24,7 +24,7 @@ include("template-top.php");
                 <figure class="bio">
                     <img src="images/ruthie-tate.jpg" alt="Picture of Ruthie Tate"/>
                     <figcaption>
-                        <strong>Ruthie Tate</strong><br/> Patient Advisory Committee Member
+                        <strong>Ruthie Tate</strong><br/> Patient Advisory Council Co-Chair
                     </figcaption>
                 </figure>
             </div>
@@ -36,7 +36,7 @@ include("template-top.php");
                 <figure class="bio">
                     <img src="images/sihoutte-man.jpg" alt="Picture of Pastor William Burks"/>
                     <figcaption>
-                        <strong>Pastor William Burks</strong><br/> Patient Advisory Committee Member
+                        <strong>Pastor William Burks</strong><br/> Patient Advisory Council Member
                     </figcaption>
                 </figure>
             </div>
@@ -67,7 +67,7 @@ include("template-top.php");
                 <figure class="bio">
                     <img src="images/douglass-hall.jpg" alt="Picture of Douglass Hall"/>
                     <figcaption>
-                        <strong>Douglass Hall</strong>
+                        <strong>Douglass Hall</strong><br />Patient Advisory Council Co-Chair
                     </figcaption>
                 </figure>
             </div>

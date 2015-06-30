@@ -26,7 +26,7 @@
             </li>
         </ul>
         <p><em>All part of the
-                <a href="http://www.methodisthealth.org/about-us/faith-and-health/community/">Congregational Health Network Navigator</a></em>
+                <a href="http://www.methodisthealth.org/about-us/faith-and-health/community/">Congregational Health Network</a></em>
         </p>
     </div>
     <div class="columns medium-5 small-only-text-center right connect-box">

@@ -11,7 +11,7 @@
 
         <p>Care Coordination Services: <span class="pnone-number">(901) 758-7888</span></p>
 
-        <p>Schedule a Care Coordination Appointment: <span class="pnone-number">(901) 516-9000</span></p>
+        <p>Schedule a Diabetes Education Appointment: <span class="pnone-number">(901) 516-9000</span></p>
 
         <p><strong>3 Diabetes Peer Support Groups:</strong></p>
         <ul style="list-style: none;">

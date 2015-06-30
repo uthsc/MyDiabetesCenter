@@ -73,10 +73,9 @@
                     <a href="#">About</a>
                     <ul class="dropdown">
                         <li><a href="about.php">About Us</a></li>
-                        <li><a href="mission.php">Misson, Vision, &amp; Goals</a></li>
+                        <li><a href="mission.php">Misson, Vision &amp; Goals</a></li>
                     </ul>
                 </li>
-
                 <li><a href="services.php">Services</a></li>
                 <li><a href="start.php">Get Started</a></li>
                 <li><a href="stories.php">Stories</a></li>

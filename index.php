@@ -7,7 +7,7 @@ include("template-top.php");
 
             <p>Have you been diagnosed with diabetes? Do you need help managing your diabetes?</p>
 
-            <p>Managing diabetes is extremely important to staying healthy. But it can sometimes be challenging and hard to keep track of. My Diabetes Center is here to make sure you have the information you need to take control of diabetes.</p>
+            <p>Managing diabetes is extremely important to staying healthy. But it can sometimes be challenging. My Diabetes Center is here to make sure you have the information you need to take control of diabetes.</p>
 
             <p>We offer resources to learn about diabetes, healthy eating habits, and ways to be more active. You can also explore diabetes apps that are useful for self-management, and read about the journeys of diabetes patients just like you!</p>
 

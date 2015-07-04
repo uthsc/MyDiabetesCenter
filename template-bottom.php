@@ -35,7 +35,7 @@
 
         <h2><i class="fa fa-map-marker"></i> Visit</h2>
 
-        <p>Methodist South Medical Office Complex<br/> <a href="#" data-reveal-id="mapModal">1251 Wesley Drive, Ste. 151<br/> Memphis, TN 38118</a>
+        <p>Methodist South Medical Office Complex<br/> <a href="#" data-reveal-id="mapModal">1251 Wesley Drive, Ste. 151<br/> Memphis, TN 38116</a>
         </p>
 
         <div id="mapModal" class="reveal-modal" data-reveal="data-reveal">

@@ -18,13 +18,13 @@ include("template-top.php");
             <div class="column">
                 <h2>What to Expect</h2>
 
-                <p>Within 24 hours of being referred to our Center, the nurse will introduce herself to you and explain the purpose, goals, and expectations.</p>
-
-                <p>Within 72 hours of leaving the hospital, you will receive a follow-up phone call.</p>
-
-                <p>A follow-up appointment will be scheduled for you within 3-5 days after leaving the hospital.</p>
-
-                <p>Our care team will then make follow-up calls once a week.</p>
+                <p>If you are referred to the Center when you are in the hospital:</p>
+                <ul>
+                    <li>Within 24 hours the nurse will introduce herself to you and explain the purpose, goals, and expectations</li>
+                    <li>Within 72 hours of leaving the hospital, you will receive a follow-up phone call</li>
+                    <li>A follow-up appointment will be scheduled for you within 3-5 days after leaving the hospital.</li>
+                    <li>Our care team will then make follow-up calls once a week</li>
+                </ul>
             </div>
         </div>
         <div class="row panel">

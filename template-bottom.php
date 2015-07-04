@@ -16,13 +16,13 @@
 
         <p><strong>3 Diabetes Peer Support Groups:</strong></p>
         <ul style="list-style: none;">
-            <li>&#10102; Methodist South -
+            <li>&#10102; Methodist South Hospital -
                 <span class="handwriting">Blanch&nbsp;Thomas:</span>&nbsp;<span class="pnone-number">(901) 516-3597</span>
             </li>
-            <li>&#10103; Methodist University -
+            <li>&#10103; Methodist University Hospital -
                 <span class="handwriting">Jean&nbsp;Evans:</span>&nbsp;<span class="pnone-number">(901) 516-8443</span>
             </li>
-            <li>&#10104; Methodist North -
+            <li>&#10104; Methodist North Hospital -
                 <span class="handwriting">Sheilah&nbsp;Easterling:</span>&nbsp;<span class="pnone-number">(901) 516-5617</span>
             </li>
         </ul>

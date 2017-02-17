@@ -5,7 +5,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="apple-mobile-web-app-title" content="My Diabetes Center"/>
-    <meta property="og:image" content="images/methodist-building.jpg"/>
+    <meta property="og:image" content="images/mdc-icon.jpg"/>
     <meta property="og:title" content="My Diabetes Center"/>
     <meta property="og:site_name" content="My Diabetes Center"/>
     <meta property="og:url" content="http://mydiabetescenter.com"/>
@@ -29,7 +29,7 @@
     </script>
     <title><?php echo $pagename; ?> | My Diabetes Center</title>
     <link rel="shortcut icon" href="favicon.ico?v=5" />
-    <link rel="apple-touch-icon" href="images/methodist-building.jpg">
+    <link rel="apple-touch-icon" href="images/mdc-icon.jpg">
     <link rel="stylesheet" href="css/mdc.css"/>
     <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>

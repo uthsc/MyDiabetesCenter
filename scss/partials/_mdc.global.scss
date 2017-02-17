@@ -130,8 +130,31 @@ figure.staff, figure.bio {
     width: 100%;
   }
 }
-
+.stories {
+  h2 {
+    font-size: 3.6vmin;
+  }
+  .title-pic-read {
+    padding: 0 1rem !important;
+    display: flex;
+    flex-direction: column;
+    .bio {
+   margin-bottom: 1rem;
+  }
+    .read-transcript {
+      flex: 1;
+    }
+  }
+}
 .fa.fa-map-marker.fa-2x.dropcap {
   float: left;
   padding: 0.15em 0.3em 0;
+}
+.media {
+  padding: 1rem 0 0 1rem !important;
+}
+.flex-video {
+  position: relative;
+  padding-bottom: 56%;
+  padding-top: 0; height: 0; overflow: hidden;
 }

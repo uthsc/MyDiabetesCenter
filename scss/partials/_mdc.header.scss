@@ -1,11 +1,11 @@
 header {
   &.hero {
-    background-image: url("../images/apple-grass.jpg");
+    background-image: url("../images/steps.jpg");
+    background-position: 0 61%;
     background-size: cover;
+    height: 21vw;
+    max-height: 400px;
     min-height: 230px;
-    background-position: 11% 45%;
-    height: 20vw;
-    max-height: 300px;
   }
 
   .logo-background {
@@ -15,16 +15,18 @@ header {
     padding: 10px;
   }
   h1 {
+    font-size: 3.3vmax;
     margin: 0;
     padding: 0 0.4em;
     line-height: 1em;
-    color: #2e599f;
+    color: $mdc-blue;
   }
   h2 {
     padding: 0 1em;
     margin: 0;
     line-height: 1em;
-    color: #4DAA57;
+    color: $mdc-green-dark;
+    font-size: 1.8vmax;
   }
 }
 
@@ -37,8 +39,9 @@ header {
       top: 5vw;
       padding: 6px;
     }
-    h1 {
-      font-size: 1.5em;
+    h2 {
+      font-size: 2vmax;
+      padding: 0;
     }
   }
 }

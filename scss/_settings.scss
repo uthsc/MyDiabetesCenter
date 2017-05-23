@@ -144,6 +144,12 @@ $include-html-global-classes: $include-html-classes;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
 
+// MDC colors
+$mdc-blue       : #2e599f;
+$mdc-blue-dark : darken($mdc-blue, 20%);
+$mdc-green      : $primary-color;
+$mdc-green-dark : darken($primary-color, 20%);
+
 // We use these to control various global styles
 // $body-bg: $white;
 // $body-font-color: $jet;

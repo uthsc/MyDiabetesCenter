@@ -19,7 +19,7 @@ include("template-top.php");
                 <br class="hide-for-small" style="clear: both;" />
 
             </div>
-            <div class="columns medium-5">
+            <div class="columns medium-6">
                 <br class="hide-for-small" style="clear: both;" />
                 <h4 class="text-center">We are looking for African-American men and women over the age of 18 who:</h4>
                 <ul>
@@ -32,7 +32,7 @@ include("template-top.php");
 
             </div>
 
-            <div class="columns medium-5">
+            <div class="columns medium-4">
                 <ul class="pricing-table">
                     <li class="title">Join</li>
                     <li class="price">$150</li>

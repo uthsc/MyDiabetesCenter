@@ -39,8 +39,13 @@ include("template-top.php");
                     <li class="description">The study lasts one year, and you will receive up to <strong>$150</strong>
                         for follow-up visits.
                     </li>
-                    <li class="bullet-item"><span class="fa fa-phone"></span> (901) 448-1381</li>
-                    <li class="cta-button"><a class="button" href="mailto:info@mydiabetescenter.org"><span class="fa fa-envelope"></span> Email Now</a></li>
+                    <li class="cta-button"><a class="button expand" href="tel:901-448-1381">
+                            <span class="row collapse">
+                                <span class="columns small-3"><span class="fa fa-phone fa-2x"></span></span>
+                                <span class="columns small-9 text-left">Call Now<br />(901) 448-1381</span>
+                            </span>
+                        </a>
+                    </li>
                 </ul>
             </div>
             <br  style="clear: both;" />

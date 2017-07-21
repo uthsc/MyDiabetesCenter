@@ -56,7 +56,6 @@ include("template-top.php");
                     <p>
                         Christ Community - Raleigh<br/>
                         Christ Community - Third Street<br/>
-                        Tristate Medical Group<br/>
                         UT Methodist Physicians - South
                     </p>
                 </div>

@@ -30,7 +30,7 @@
     <title><?php echo $pagename; ?> | My Diabetes Center</title>
     <link rel="shortcut icon" href="favicon.ico?v=5" />
     <link rel="apple-touch-icon" href="images/mdc-icon.jpg">
-    <link rel="stylesheet" href="css/mdc.css"/>
+    <link rel="stylesheet" href="css/mdc.css?<?php echo date('l jS \of F Y h:i:s A'); ?>"/>
     <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css'>
@@ -85,6 +85,7 @@
                 <li><a href="start.php">Get Started</a></li>
                 <li><a href="stories.php">Stories</a></li>
                 <li><a href="for-providers.php">For Providers</a></li>
+                <li><a href="the-model-study.php">The MODEL Study</a></li>
             </ul>
         </section>
     </nav>

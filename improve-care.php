@@ -1,5 +1,5 @@
 <?php
-$pagename = 'For Providers';
+$pagename = 'Improve Care';
 include("template-top.php");
 ?>
 <div id="content" class="row">
@@ -58,9 +58,9 @@ Primary care engagement"/>
         <p>We are able to receive electronic data generated from certified electronic health record technology (CEHRT) through appropriate secure mechanisms. The <i>DWPC Registry</i> has a registration of intent process that takes clinics and other providers through test and validation and a process to move into production. We provide participating providers with appropriate documentation in order to begin this process and we notify them by email on a regular basis of the status of their feeds to the registry and whether they are currently meeting our criteria for "Active Engagement".</p>
         <div class="panel">
         <p>To participate in the <i>DWPC Registry</i>, or to request more information, contact:<br />
-            <strong>Bonnie Binkley, MA</strong><br />
+            <strong>Carrie Jo Riordan, MPH</strong><br />
             <a href="mailto:info@mydiabetescenter.org">info@mydiabetescenter.org</a><br />
-            (901) 448-4168</p>
+            (901) 448-2476</p>
         </div>
     </div>
 </div>

@@ -2,6 +2,6 @@
   "name": "foundation-libsass-template",
   "dependencies": {
       "foundation": "~5.5.1",
-      "fontawesome": "~4.2.0"
+      "fontawesome": "~4.7.0"
   }
 }

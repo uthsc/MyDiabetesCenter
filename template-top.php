@@ -57,10 +57,17 @@
         </ul>
         <section class="top-bar-section">
             <!-- Right Nav Section -->
-            <ul class="right">
-                <li class="has-dropdown">
-                    <a href="#">My Care Tools</a>
-                    <ul class="dropdown">
+            <ul class="right mdc-my-care-tools-nav">
+<!--                    <a href="#" class="button split">Split Button <span data-dropdown="drop"></span></a><br>-->
+<!--                    <ul id="drop" class="f-dropdown" data-dropdown-content>-->
+<!--                        <li><a href="#">This is a link</a></li>-->
+<!--                        <li><a href="#">This is another</a></li>-->
+<!--                        <li><a href="#">Yet another</a></li>-->
+<!--                    </ul>-->
+
+
+                    <a href="my-care-tools.php" class="button split secondary">My Care Tools<span data-dropdown="drop"></span></a>
+                    <ul id="drop" class="f-dropdown" data-dropdown-content>
                         <li><a href="diabetes-education-classes.php">Diabetes Education</a></li>
                         <li><a href="physical-activity.php">Physical Activity</a></li>
                         <li><a href="healthy-eating.php">Healthy Eating</a></li>
@@ -68,7 +75,7 @@
                         <li><a href="apps.php">My Diabetes Apps</a></li>
                         <li><a href="http://www.patientslikeme.com/">PatientsLikeMe</a></li>
                     </ul>
-                </li>
+
             </ul>
 
             <!-- Left Nav Section -->

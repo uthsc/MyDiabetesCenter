@@ -168,6 +168,36 @@ figcaption.button.dropdown.tiny.expand {
     margin: 1rem;
   }
 }
+
+.accordion-navigation h3 {
+  font-size: 1.4rem;
+}
+
+.mdc-my-care-tools {
+  .fa {
+    padding: 0 0 1.1rem;
+  }
+}
+.mdc-my-care-tools-nav {
+  a.button.split.secondary {
+    display: flex;
+    height: -webkit-fill-available;
+    top: 0;
+    padding: 1rem 0 0 1rem;
+    width: 165px;
+  }
+  #drop {
+    width: 17%;
+    max-width: none;
+    min-width: 150px;
+    background: #333;
+    li {
+      width: 100%;
+    }
+  }
+}
+
+
 .stories {
   h2 {
     font-size: 3.6vmin;

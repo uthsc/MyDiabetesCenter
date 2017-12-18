@@ -21,10 +21,14 @@ include("template-top.php");
                 </ul>
                 <h3>Contact our provider partners listed below for an appointment today:</h3>
                 <ul class="small-block-grid-2">
-                    <li><strong>UT Methodist Physicians</strong><br />1251 Wesley Dr. #151, Memphis, TN 38118<br /><i class="fa fa-phone"></i> 901-758-7888</li>
-                    <li><strong>Motley Internal Medicine Group</strong><br />1264 Wesley Dr #606, Memphis, TN 38118<br /><i class="fa fa-phone"></i> 901-332-2277</li>
-                    <li><strong>TriState Medical Group, PLLC</strong><br />1264 Wesley Dr #405, Memphis, TN 38118<br /><i class="fa fa-phone"></i> 901-332-9632</li>
-                    <li><strong>Christ Community Health Services</strong><br />Third Street Clinic, 3362 S. Third St., Memphis, TN 38118<br /><i class="fa fa-phone"></i> 901-701-2510</li>
+                    <li><strong>UT Methodist Physicians</strong><br />1251 Wesley Dr. #151, Memphis, TN 38118<br /><i class="fa fa-phone"></i> (901) 758-7888</li>
+                    <li><strong>Motley Internal Medicine Group</strong><br />1264 Wesley Dr #606, Memphis, TN 38118<br /><i class="fa fa-phone"></i> (901) 332-2277</li>
+                    <li><strong>Christ Community Health Services</strong><br />Raleigh Clinic, 3481 Austin Peay Highway<br /><i class="fa fa-phone"></i> (901) 701-2570</li>
+                    <li><strong>Christ Community Health Services</strong><br />Third Street Clinic, 3362 S. Third St., Memphis, TN 38118<br /><i class="fa fa-phone"></i> (901) 701-2510</li>
+                    <li><strong>Eastmoreland Internal Medicine</strong><br />1325 Eastmoreland, Suite 245<br /><i class="fa fa-phone"></i> (901) 516-7117</li>
+                    <li><strong>Hawkins Family Medicine</strong><br />491A Craft St., Holly Springs, MS 38635<br /><i class="fa fa-phone"></i> (662) 252-6416</li>
+                    <li><strong>UT Family Practice</strong><br />294 Summa Avenue, Jackson, TN 38301<br /><i class="fa fa-phone"></i> (731) 423-1932</li>
+                    <li><strong>UT Family Practice</strong><br />1999 Highway 51 South, Covington, TN 38116<br /><i class="fa fa-phone"></i> (901) 758-7888</li>
                 </ul>
             </div>
         </div>

@@ -130,6 +130,22 @@ figure.staff, figure.bio {
     width: 100%;
   }
 }
+figure.apps {
+  margin: 2rem;
+  border-radius: 7px;
+  border: 1px solid #cdcdcd;
+  line-height: 0;
+  figcaption {
+  }
+  img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 40em) {
+  figure.apps {
+    margin: 1rem;
+  }
+}
 .stories {
   h2 {
     font-size: 3.6vmin;

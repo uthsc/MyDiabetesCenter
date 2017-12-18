@@ -1,5 +1,5 @@
 <?php
-$pagename = 'Physical Activity';
+$pagename = 'Healthy Eating';
 include("template-top.php");
 ?>
 <!--<style>-->
@@ -10,27 +10,44 @@ include("template-top.php");
 <div id="content" class="row">
     <div class="columns" data-equalizer="test">
         <h1><?php echo $pagename; ?></h1>
-        <p>Physical activity is another important part of your diabetes management plan. When you exercise, your muscles use sugar (glucose) for energy. Regular physical activity also helps your body use insulin more efficiently.</p>
-            <p>These factors work together to lower your blood sugar level. The more strenuous your workout, the longer the effect lasts. But even light activities--such as housework, gardening or being on your feet for extended periods--can improve your blood sugar level.</p>
+        <div class="row">
+            <div class="columns medium-6">
+                <p>
+                    Healthy eating is a cornerstone of health living--with or without diabetes. But if you have diabetes, you need to know how foods affect your blood sugar levels. It’s not only the type of food you eat but also how you eat and the combinations of food types you eat.
+                </p>
+            </div>
+            <div class="columns medium-6">
+                <p>
+                    Here’s what you can do to promote healthy eating:
+                </p>
+                <ul>
+                    <li>Learn about carbohydrate counting and portion sizes</li>
+                    <li>Make every meal well-balanced</li>
+                    <li>Coordinate meals with medications</li>
+                    <li>Avoid sugar-sweetened beverages</li>
+                </ul>
+            </div>
+        </div>
+
         <div class="row panel text-center">
-            <h2 class="text-left">Tools to Help Increase Physical Activity</h2>
-            <ul class="small-block-grid-2 medium-block-grid-3" data-equalizer="physical-activity">
+            <h2 class="text-left">Tools for Healthy Eating</h2>
+            <ul class="small-block-grid-2 medium-block-grid-4" data-equalizer="healthy-eating">
                 <li>
                     <figure class="apps">
-                        <img src="images/walking-works.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/the-plate-method.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
-                                    data-dropdown="walking-works"
-                                    aria-controls="walking-works"
+                                    data-dropdown="the-plate-method"
+                                    aria-controls="the-plate-method"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
-                            Walking Works
+                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                            The Plate Method
                         </figcaption>
                     </figure>
                 </li>
-                <div id="walking-works" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
-                    <h3>Walking Works</h3>
+                <div id="the-plate-method" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
+                    <h3>The Plate Method</h3>
                     <p>
-                        Being active is one of the best way to help control your blood sugar if you have diabetes. One of the easiest and safest ways to be active is to walk whenever you can.
+                        The Plate Method is a simple way to plan meals. You don’t have to count anything or read a long list of foods.
                         <a href="#" class="button secondary">
                             <span class="fa fa-info-circle"></span>&emsp;Learn More
                         </a>
@@ -38,20 +55,20 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/lets-get-moving.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/healthy-cooking-tips.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
-                                    data-dropdown="lets-get-moving"
-                                    aria-controls="lets-get-moving"
+                                    data-dropdown="healthy-cooking-tips"
+                                    aria-controls="healthy-cooking-tips"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
-                            Let’s Get Moving
+                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                            Healthy Cooking Tips
                         </figcaption>
                     </figure>
                 </li>
-                <div id="lets-get-moving" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
-                    <h3>Let’s Get Moving</h3>
+                <div id="healthy-cooking-tips" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
+                    <h3>Healthy Cooking Tips</h3>
                     <p>
-                        Being active is good for almost everyone ― including people with diabetes. Active people often: have more energy, have less stress, have better blood sugar control, look and feel better.
+                        How food is prepared can be just as important in controlling diabetes as the food you eat.
                         <a href="#" class="button secondary">
                             <span class="fa fa-info-circle"></span>&emsp;Learn More
                         </a>
@@ -59,19 +76,41 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/my-weekly-exercise-plan.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/the-plant-foods-plate.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
-                                    data-dropdown="my-weekly-exercise-plan"
-                                    aria-controls="my-weekly-exercise-plan"
+                                    data-dropdown="the-plant-foods-plate"
+                                    aria-controls="the-plant-foods-plate"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
-                            My Weekly Exercise Plan
+                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                            The Plant-Foods Plate
                         </figcaption>
                     </figure>
                 </li>
-                <div id="my-weekly-exercise-plan" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
-                    <h3>My Weekly Exercise Plan</h3>
-                    <p>Creating an exercise plan and setting goals is a great way to encourage physical activity.
+                <div id="the-plant-foods-plate" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
+                    <h3>The Plant-Foods Plate</h3>
+                    <p>
+                        Diet changes are one of the cornerstones to treating diabetes.
+                        <a href="#" class="button secondary">
+                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        </a>
+                    </p>
+                </div>
+                <li>
+                    <figure class="apps">
+                        <img src="images/the-diabetes-portion-plate.jpg" class="" alt="Picture of Ruthie Tate">
+                        <figcaption href="#"
+                                    data-dropdown="the-diabetes-portion-plate"
+                                    aria-controls="the-diabetes-portion-plate"
+                                    aria-expanded="false"
+                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                            The Diabetes Portion Plate
+                        </figcaption>
+                    </figure>
+                </li>
+                <div id="the-diabetes-portion-plate" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
+                    <h3>The Diabetes Portion Plate</h3>
+                    <p>
+                        The diabetes portion plate is an easy to use tool that can help you visualize your portion sizes and make smart, healthy choices about what you eat.
                         <a href="#" class="button secondary">
                             <span class="fa fa-info-circle"></span>&emsp;Learn More
                         </a>
@@ -81,11 +120,10 @@ include("template-top.php");
         </div>
     </div>
     <div class="columns">
-        <h2>Gym Memberships and Classes</h2>
+        <h2>Nutrition Classes, Farmer’s Market, Healthy Recipes</h2>
         <ul>
-            <li>YMCA</li>
-            <li>Group Fitness</li>
-            <li>Local Events</li>
+            <li>Church Health Center</li>
+            <li>Community Gardens</li>
         </ul>
     </div>
 </div>

@@ -61,10 +61,10 @@
                 <li class="has-dropdown">
                     <a href="#">My Care Tools</a>
                     <ul class="dropdown">
-                        <li><a href="tools.php#diabetes-education">Diabetes Education</a></li>
-                        <li><a href="tools.php#physical-activity">Physical Activity</a></li>
-                        <li><a href="tools.php#healthy-eating">Healthy Eating</a></li>
-                        <li><a href="tools.php#caring-for-diabetes">Caring for Diabetes</a></li>
+                        <li><a href="diabetes-education-classes.php">Diabetes Education</a></li>
+                        <li><a href="physical-activity.php">Physical Activity</a></li>
+                        <li><a href="healthy-eating.php">Healthy Eating</a></li>
+                        <li><a href="caring-for-diabetes.php">Caring for Diabetes</a></li>
                         <li><a href="apps.php">My Diabetes Apps</a></li>
                         <li><a href="http://www.patientslikeme.com/">PatientsLikeMe</a></li>
                     </ul>

@@ -141,6 +141,24 @@ figure.apps {
     width: 100%;
   }
 }
+
+.mdc-dropdown {
+  margin-bottom: 0;
+  background: white;
+  border-radius: 0 0 30px 30px;
+  margin-top: -8px;
+  width: 40vw;
+  max-width: inherit;
+  box-shadow: 2px 2px 4px #999;
+  .button {
+    width: 80%;
+    margin: 1rem 10%;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+}
+
 @media only screen and (max-width: 40em) {
   figure.apps {
     margin: 1rem;

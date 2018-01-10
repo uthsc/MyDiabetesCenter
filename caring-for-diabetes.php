@@ -34,7 +34,7 @@ include("template-top.php");
             <ul class="small-block-grid-2 medium-block-grid-3" data-equalizer="caring-for-diabetes">
                 <li>
                     <figure class="apps">
-                        <img src="images/diabetes-and-what-you-need-to-know.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/diabetes-and-what-you-need-to-know.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="diabetes-and-what-you-need-to-know"
                                     aria-controls="diabetes-and-what-you-need-to-know"
@@ -55,7 +55,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/caring-for-someone-with-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/caring-for-someone-with-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="caring-for-someone-with-diabetes"
                                     aria-controls="caring-for-someone-with-diabetes"
@@ -76,7 +76,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/hypoglycemia.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/hypoglycemia.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="hypoglycemia"
                                     aria-controls="hypoglycemia"
@@ -97,7 +97,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/blood-sugar-highs-and-lows.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/blood-sugar-highs-and-lows.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="blood-sugar-highs-and-lows"
                                     aria-controls="blood-sugar-highs-and-lows"
@@ -118,7 +118,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/diabetes-and-your-eyes.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/diabetes-and-your-eyes.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="diabetes-and-your-eyes"
                                     aria-controls="diabetes-and-your-eyes"
@@ -139,7 +139,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/diabetes-and-your-kidneys.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/diabetes-and-your-kidneys.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="diabetes-and-your-kidneys"
                                     aria-controls="diabetes-and-your-kidneys"
@@ -160,7 +160,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/how-diabetes-affects-your-body.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/how-diabetes-affects-your-body.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="how-diabetes-affects-your-body"
                                     aria-controls="how-diabetes-affects-your-body"
@@ -181,7 +181,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/my-diabetes-action-plan.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/my-diabetes-action-plan.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="my-diabetes-action-plan"
                                     aria-controls="my-diabetes-action-plan"
@@ -202,7 +202,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/living-well-with-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/living-well-with-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="living-well-with-diabetes"
                                     aria-controls="living-well-with-diabetes"
@@ -223,7 +223,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/blood-sugar-goals.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/blood-sugar-goals.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="blood-sugar-goals"
                                     aria-controls="blood-sugar-goals"
@@ -244,7 +244,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/healthy-living-and-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/healthy-living-and-diabetes.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="healthy-living-and-diabetes"
                                     aria-controls="healthy-living-and-diabetes"

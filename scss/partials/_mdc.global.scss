@@ -196,6 +196,23 @@ figcaption.button.dropdown.tiny.expand {
     }
   }
 }
+.mdc-my-care-tools-h1 {
+  background: url(/images/nurse-patient-hero.png);
+  color: #fff;
+  text-align: center;
+  height: 24vh;
+  background-size: 124%;
+  background-position: 99% 12%;
+  padding: 9vh;
+  text-shadow: 1px 1px 1px #222;
+  font-size: 3.6rem;
+  margin: 0 0 1.1rem;
+}
+@media only screen and (max-width: 40em) {
+  .mdc-my-care-tools-h1 {
+    font-size: 2.4rem;
+  }
+}
 
 
 .stories {
@@ -225,4 +242,12 @@ figcaption.button.dropdown.tiny.expand {
   position: relative;
   padding-bottom: 56%;
   padding-top: 0; height: 0; overflow: hidden;
+}
+
+/// Adds font awesome icons to the end of links based on href mimetype
+
+a[href$=".pdf"]:before {
+  font-family: "FontAwesome";
+  content: "\f1c1\00a0";
+  font-weight:normal;
 }

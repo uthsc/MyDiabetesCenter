@@ -22,7 +22,7 @@ include("template-top.php");
                                     data-dropdown="walking-works"
                                     aria-controls="walking-works"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             Walking Works
                         </figcaption>
                     </figure>
@@ -31,8 +31,8 @@ include("template-top.php");
                     <h3>Walking Works</h3>
                     <p>
                         Being active is one of the best way to help control your blood sugar if you have diabetes. One of the easiest and safest ways to be active is to walk whenever you can.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/walking-works.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -43,7 +43,7 @@ include("template-top.php");
                                     data-dropdown="lets-get-moving"
                                     aria-controls="lets-get-moving"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             Let’s Get Moving
                         </figcaption>
                     </figure>
@@ -52,8 +52,8 @@ include("template-top.php");
                     <h3>Let’s Get Moving</h3>
                     <p>
                         Being active is good for almost everyone ― including people with diabetes. Active people often: have more energy, have less stress, have better blood sugar control, look and feel better.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/lets-get-moving.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -64,7 +64,7 @@ include("template-top.php");
                                     data-dropdown="my-weekly-exercise-plan"
                                     aria-controls="my-weekly-exercise-plan"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             My Weekly Exercise Plan
                         </figcaption>
                     </figure>
@@ -72,8 +72,8 @@ include("template-top.php");
                 <div id="my-weekly-exercise-plan" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
                     <h3>My Weekly Exercise Plan</h3>
                     <p>Creating an exercise plan and setting goals is a great way to encourage physical activity.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/my-weekly-exercise-plan.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>

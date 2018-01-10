@@ -39,7 +39,7 @@ include("template-top.php");
                                     data-dropdown="the-plate-method"
                                     aria-controls="the-plate-method"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             The Plate Method
                         </figcaption>
                     </figure>
@@ -48,8 +48,8 @@ include("template-top.php");
                     <h3>The Plate Method</h3>
                     <p>
                         The Plate Method is a simple way to plan meals. You don’t have to count anything or read a long list of foods.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/the-plate-method-of-eating.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -60,7 +60,7 @@ include("template-top.php");
                                     data-dropdown="healthy-cooking-tips"
                                     aria-controls="healthy-cooking-tips"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             Healthy Cooking Tips
                         </figcaption>
                     </figure>
@@ -69,8 +69,8 @@ include("template-top.php");
                     <h3>Healthy Cooking Tips</h3>
                     <p>
                         How food is prepared can be just as important in controlling diabetes as the food you eat.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/healthy-cooking-tips.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -81,7 +81,7 @@ include("template-top.php");
                                     data-dropdown="the-plant-foods-plate"
                                     aria-controls="the-plant-foods-plate"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             The Plant-Foods Plate
                         </figcaption>
                     </figure>
@@ -90,8 +90,8 @@ include("template-top.php");
                     <h3>The Plant-Foods Plate</h3>
                     <p>
                         Diet changes are one of the cornerstones to treating diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/the-plant-foods-plate.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -102,7 +102,7 @@ include("template-top.php");
                                     data-dropdown="the-diabetes-portion-plate"
                                     aria-controls="the-diabetes-portion-plate"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             The Diabetes Portion Plate
                         </figcaption>
                     </figure>
@@ -111,8 +111,8 @@ include("template-top.php");
                     <h3>The Diabetes Portion Plate</h3>
                     <p>
                         The diabetes portion plate is an easy to use tool that can help you visualize your portion sizes and make smart, healthy choices about what you eat.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/diabetes-portion-plate-for-a-southern-meal.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>

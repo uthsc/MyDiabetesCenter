@@ -21,7 +21,7 @@ include("template-top.php");
                                     data-dropdown="walking-works"
                                     aria-controls="walking-works"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             Walking Works
                         </figcaption>
                     </figure>
@@ -30,8 +30,8 @@ include("template-top.php");
                     <h3>Walking Works</h3>
                     <p>
                         Being active is one of the best way to help control your blood sugar if you have diabetes. One of the easiest and safest ways to be active is to walk whenever you can.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/walking-works.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -42,7 +42,7 @@ include("template-top.php");
                                     data-dropdown="lets-get-moving"
                                     aria-controls="lets-get-moving"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             Let’s Get Moving
                         </figcaption>
                     </figure>
@@ -51,8 +51,8 @@ include("template-top.php");
                     <h3>Let’s Get Moving</h3>
                     <p>
                         Being active is good for almost everyone ― including people with diabetes. Active people often: have more energy, have less stress, have better blood sugar control, look and feel better.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/lets-get-moving.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -63,7 +63,7 @@ include("template-top.php");
                                     data-dropdown="my-weekly-exercise-plan"
                                     aria-controls="my-weekly-exercise-plan"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="physical-activity">
                             My Weekly Exercise Plan
                         </figcaption>
                     </figure>
@@ -71,8 +71,8 @@ include("template-top.php");
                 <div id="my-weekly-exercise-plan" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
                     <h3>My Weekly Exercise Plan</h3>
                     <p>Creating an exercise plan and setting goals is a great way to encourage physical activity.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/my-weekly-exercise-plan.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -80,7 +80,7 @@ include("template-top.php");
         </div>
         <div class="row panel text-center">
             <h2 class="text-left">Healthy Eating</h2>
-            <ul class="small-block-grid-2 medium-block-grid-3" data-equalizer="healthy-eating">
+            <ul class="small-block-grid-2 medium-block-grid-4" data-equalizer="healthy-eating">
                 <li>
                     <figure class="apps">
                         <img src="images/the-plate-method.jpg" class="" alt="Picture of Ruthie Tate">
@@ -88,7 +88,7 @@ include("template-top.php");
                                     data-dropdown="the-plate-method"
                                     aria-controls="the-plate-method"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             The Plate Method
                         </figcaption>
                     </figure>
@@ -97,8 +97,8 @@ include("template-top.php");
                     <h3>The Plate Method</h3>
                     <p>
                         The Plate Method is a simple way to plan meals. You don’t have to count anything or read a long list of foods.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/the-plate-method-of-eating.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -109,7 +109,7 @@ include("template-top.php");
                                     data-dropdown="healthy-cooking-tips"
                                     aria-controls="healthy-cooking-tips"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                             Healthy Cooking Tips
                         </figcaption>
                     </figure>
@@ -118,8 +118,8 @@ include("template-top.php");
                     <h3>Healthy Cooking Tips</h3>
                     <p>
                         How food is prepared can be just as important in controlling diabetes as the food you eat.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/healthy-cooking-tips.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -130,7 +130,7 @@ include("template-top.php");
                                     data-dropdown="the-plant-foods-plate"
                                     aria-controls="the-plant-foods-plate"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                         The Plant-Foods Plate
                         </figcaption>
                     </figure>
@@ -139,8 +139,8 @@ include("template-top.php");
                     <h3>The Plant-Foods Plate</h3>
                     <p>
                         Diet changes are one of the cornerstones to treating diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/the-plant-foods-plate.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -151,7 +151,7 @@ include("template-top.php");
                                     data-dropdown="the-diabetes-portion-plate"
                                     aria-controls="the-diabetes-portion-plate"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="healthy-eating">
                         The Diabetes Portion Plate
                         </figcaption>
                     </figure>
@@ -160,8 +160,8 @@ include("template-top.php");
                     <h3>The Diabetes Portion Plate</h3>
                     <p>
                         The diabetes portion plate is an easy to use tool that can help you visualize your portion sizes and make smart, healthy choices about what you eat.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/diabetes-portion-plate-for-a-southern-meal.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -177,7 +177,7 @@ include("template-top.php");
                                     data-dropdown="diabetes-and-what-you-need-to-know"
                                     aria-controls="diabetes-and-what-you-need-to-know"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Diabetes and What you Need to Know
                         </figcaption>
                     </figure>
@@ -186,8 +186,8 @@ include("template-top.php");
                     <h3>Diabetes and What you Need to Know</h3>
                     <p>
                         Diabetes is diagnosed when you have too much sugar in your blood. Diabetes ay lead to heart disease, stroke, kidney failure, new cases of blindness, and nervous system problems. You can reduce the risk of long-term health caused by diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/diabetes-and-what-you-need-to-know.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -198,7 +198,7 @@ include("template-top.php");
                                     data-dropdown="caring-for-someone-with-diabetes"
                                     aria-controls="caring-for-someone-with-diabetes"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Caring for Someone with Diabetes
                         </figcaption>
                     </figure>
@@ -207,8 +207,8 @@ include("template-top.php");
                     <h3>Caring for Someone with Diabetes</h3>
                     <p>
                         Many people in the United Stated are faced with caring for someone with diabetes. You are 1 of them. Diabetes is a serious, lifelong condition. There is no cure, but it can be managed so the person you are caring for can lead a healthier life.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/caring-for-someone-with-diabetes-and-taking-care-of-yourself.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -219,7 +219,7 @@ include("template-top.php");
                                     data-dropdown="hypoglycemia"
                                     aria-controls="hypoglycemia"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Hypoglycemia
                         </figcaption>
                     </figure>
@@ -228,8 +228,8 @@ include("template-top.php");
                     <h3>Hypoglycemia</h3>
                     <p>
                         Low blood sugar can happen even when you’re doing all you can to manage your diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/hypoglycemia.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -240,7 +240,7 @@ include("template-top.php");
                                     data-dropdown="blood-sugar-highs-and-lows"
                                     aria-controls="blood-sugar-highs-and-lows"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Blood Sugar Highs and Lows
                         </figcaption>
                     </figure>
@@ -249,8 +249,8 @@ include("template-top.php");
                     <h3>Blood Sugar Highs and Lows</h3>
                     <p>
                         People with diabetes may have high or low blood sugar at times. Both can be serious if untreated. So learn about high and low blood sugar.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/blood-sugar-highs-and-lows.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -261,7 +261,7 @@ include("template-top.php");
                                     data-dropdown="diabetes-and-your-eyes"
                                     aria-controls="diabetes-and-your-eyes"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Diabetes and your Eyes
                         </figcaption>
                     </figure>
@@ -270,8 +270,8 @@ include("template-top.php");
                     <h3>Diabetes and your Eyes</h3>
                     <p>
                         Diabetes can damage your eyes and is the leading cause of blindness among adults.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/diabetes-and-your-eyes.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -282,7 +282,7 @@ include("template-top.php");
                                     data-dropdown="diabetes-and-your-kidneys"
                                     aria-controls="diabetes-and-your-kidneys"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Diabetes and your Kidneys
                         </figcaption>
                     </figure>
@@ -291,8 +291,8 @@ include("template-top.php");
                     <h3>Diabetes and your Kidneys</h3>
                     <p>
                         Diabetes can increase your risk for kidney disease. Your risk is much higher if you are Hispanic/Latino, African-American, or Native American.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/diabetes-and-your-kidneys.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -303,7 +303,7 @@ include("template-top.php");
                                     data-dropdown="how-diabetes-affects-your-body"
                                     aria-controls="how-diabetes-affects-your-body"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         How Diabetes Affects your Body
                         </figcaption>
                     </figure>
@@ -312,8 +312,8 @@ include("template-top.php");
                     <h3>How Diabetes Affects your Body</h3>
                     <p>
                         Learning how diabetes affects your body can help you reduce the risk of serious health problems associated with diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/how-diabetes-affects-your-body.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -324,7 +324,7 @@ include("template-top.php");
                                     data-dropdown="my-diabetes-action-plan"
                                     aria-controls="my-diabetes-action-plan"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         My Diabetes Action Plan
                         </figcaption>
                     </figure>
@@ -333,8 +333,8 @@ include("template-top.php");
                     <h3>My Diabetes Action Plan</h3>
                     <p>
                         Take an active role in managing your diabetes, and use the information in this tool to help build your diabetes action plan.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/my-diabetes-action-plan.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -345,7 +345,7 @@ include("template-top.php");
                                     data-dropdown="living-well-with-diabetes"
                                     aria-controls="living-well-with-diabetes"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Living Well with Diabetes
                         </figcaption>
                     </figure>
@@ -354,8 +354,8 @@ include("template-top.php");
                     <h3>Living Well with Diabetes</h3>
                     <p>
                         This self-care guide is designed to support your learning style. You can take the topics in the order that makes sense to you. You can cover a little or a lot in one session. You can view, print or listen to the information. It’s all up to you.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/living-well-with-diabetes.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -366,7 +366,7 @@ include("template-top.php");
                                     data-dropdown="blood-sugar-goals"
                                     aria-controls="blood-sugar-goals"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Blood Sugar Goals
                         </figcaption>
                     </figure>
@@ -375,8 +375,8 @@ include("template-top.php");
                     <h3>Blood Sugar Goals</h3>
                     <p>
                         Good blood sugar control is important for everyone with diabetes. But reaching your blood sugar goals can be hard at times. In this article you’ll find some things you can do to help reach your goals.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/blood-sugar-goals.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>
@@ -387,7 +387,7 @@ include("template-top.php");
                                     data-dropdown="healthy-living-and-diabetes"
                                     aria-controls="healthy-living-and-diabetes"
                                     aria-expanded="false"
-                                    class="button dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
+                                    class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
                         Healthy Living and Diabetes
                         </figcaption>
                     </figure>
@@ -396,8 +396,8 @@ include("template-top.php");
                     <h3>Healthy Living and Diabetes</h3>
                     <p>
                         This booklet will cover some basic topics of diabetes.
-                        <a href="#" class="button secondary">
-                            <span class="fa fa-info-circle"></span>&emsp;Learn More
+                        <a href="/documents/healthy-living-and-diabetes.pdf" class="button">
+                            Learn More
                         </a>
                     </p>
                 </div>

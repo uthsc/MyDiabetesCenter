@@ -9,10 +9,9 @@ include("template-top.php");
         min-height: 150px;
     }
 </style>
-<div id="content" class="row">
+<div id="content" class="row mdc-my-care-tools-container">
     <div class="columns">
-        <h1><?php echo $pagename; ?></h1>
-
+        <h1 class="mdc-my-care-tools-h1"><?php echo $pagename; ?></h1>
         <div class="row">
             <div class="columns mdc-my-care-tools">
                 <ul class="small-block-grid-2 medium-block-grid-4" data-equalizer>

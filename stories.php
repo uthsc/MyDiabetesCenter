@@ -31,10 +31,7 @@ include("template-top.php");
             </div>
             <div class="columns small-12 medium-3 title-pic-read" data-equalizer-watch="true" style="background-color: #EEEEEE;">
                 <div class="row collapse"></div>
-                <h2 class="text-center">Pastor William Burks</h2>
-                <figure class="bio">
-                    <img src="images/" alt="Picture of xxxx"/>
-                </figure>
+                <h2 class="text-center">Pastor<br />William<br />Burks</h2>
                 <button href="#pastor-william-burks" class="read-transcript rt002 expand" aria-label="Read transcript"><i class="fa fa-book"></i> Read</button>
             </div>
             <div class="columns transcript" id="rt002">

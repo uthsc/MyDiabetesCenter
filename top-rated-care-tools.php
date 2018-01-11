@@ -199,7 +199,7 @@ include("template-top.php");
                                     aria-controls="caring-for-someone-with-diabetes"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Caring for Someone with Diabetes
+                        Caring for Someone<br />with Diabetes
                         </figcaption>
                     </figure>
                 </li>
@@ -220,7 +220,7 @@ include("template-top.php");
                                     aria-controls="hypoglycemia"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Hypoglycemia
+                        Hypoglycemia<br /><br />
                         </figcaption>
                     </figure>
                 </li>
@@ -241,7 +241,7 @@ include("template-top.php");
                                     aria-controls="blood-sugar-highs-and-lows"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Blood Sugar Highs and Lows
+                        Blood Sugar<br />Highs and Lows
                         </figcaption>
                     </figure>
                 </li>
@@ -262,7 +262,7 @@ include("template-top.php");
                                     aria-controls="diabetes-and-your-eyes"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Diabetes and your Eyes
+                        Diabetes and<br />your Eyes
                         </figcaption>
                     </figure>
                 </li>
@@ -288,7 +288,7 @@ include("template-top.php");
                     </figure>
                 </li>
                 <div id="diabetes-and-your-kidneys" data-dropdown-content class="f-dropdown mdc-dropdown panel" aria-hidden="true">
-                    <h3>Diabetes and your Kidneys</h3>
+                    <h3>Diabetes and<br />your Kidneys</h3>
                     <p>
                         Diabetes can increase your risk for kidney disease. Your risk is much higher if you are Hispanic/Latino, African-American, or Native American.
                         <a href="/documents/diabetes-and-your-kidneys.pdf" class="button">
@@ -304,7 +304,7 @@ include("template-top.php");
                                     aria-controls="how-diabetes-affects-your-body"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        How Diabetes Affects your Body
+                        How Diabetes<br />Affects your Body
                         </figcaption>
                     </figure>
                 </li>
@@ -325,7 +325,7 @@ include("template-top.php");
                                     aria-controls="my-diabetes-action-plan"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        My Diabetes Action Plan
+                        My Diabetes<br />Action Plan
                         </figcaption>
                     </figure>
                 </li>
@@ -346,7 +346,7 @@ include("template-top.php");
                                     aria-controls="living-well-with-diabetes"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Living Well with Diabetes
+                        Living Well<br />with Diabetes
                         </figcaption>
                     </figure>
                 </li>
@@ -367,7 +367,7 @@ include("template-top.php");
                                     aria-controls="blood-sugar-goals"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Blood Sugar Goals
+                        Blood Sugar<br />Goals
                         </figcaption>
                     </figure>
                 </li>
@@ -388,7 +388,7 @@ include("template-top.php");
                                     aria-controls="healthy-living-and-diabetes"
                                     aria-expanded="false"
                                     class="button secondary dropdown tiny expand text-right" data-equalizer-watch="caring-for-diabetes">
-                        Healthy Living and Diabetes
+                        Healthy Living<br />and Diabetes
                         </figcaption>
                     </figure>
                 </li>

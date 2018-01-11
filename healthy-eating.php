@@ -34,7 +34,7 @@ include("template-top.php");
             <ul class="small-block-grid-2 medium-block-grid-4" data-equalizer="healthy-eating">
                 <li>
                     <figure class="apps">
-                        <img src="images/the-plate-method.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/the-plate-method.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="the-plate-method"
                                     aria-controls="the-plate-method"
@@ -55,7 +55,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/healthy-cooking-tips.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/healthy-cooking-tips.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="healthy-cooking-tips"
                                     aria-controls="healthy-cooking-tips"
@@ -76,7 +76,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/the-plant-foods-plate.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/the-plant-foods-plate.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="the-plant-foods-plate"
                                     aria-controls="the-plant-foods-plate"
@@ -97,7 +97,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/the-diabetes-portion-plate.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/the-diabetes-portion-plate.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="the-diabetes-portion-plate"
                                     aria-controls="the-diabetes-portion-plate"

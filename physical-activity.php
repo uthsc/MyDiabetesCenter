@@ -17,7 +17,7 @@ include("template-top.php");
             <ul class="small-block-grid-2 medium-block-grid-3" data-equalizer="physical-activity">
                 <li>
                     <figure class="apps">
-                        <img src="images/walking-works.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/walking-works.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="walking-works"
                                     aria-controls="walking-works"
@@ -38,7 +38,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/lets-get-moving.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/lets-get-moving.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="lets-get-moving"
                                     aria-controls="lets-get-moving"
@@ -59,7 +59,7 @@ include("template-top.php");
                 </div>
                 <li>
                     <figure class="apps">
-                        <img src="images/my-weekly-exercise-plan.jpg" class="" alt="Picture of Ruthie Tate">
+                        <img src="images/program/my-weekly-exercise-plan.jpg" class="" alt="Picture of Ruthie Tate">
                         <figcaption href="#"
                                     data-dropdown="my-weekly-exercise-plan"
                                     aria-controls="my-weekly-exercise-plan"
